@@ -2,60 +2,60 @@
 	path = .registry
 	url = https://github.com/link-ny/universe
 	branch = HEAD
-[submodule "MultiAssayExperiment"]
-	path = MultiAssayExperiment
-	url = https://github.com/waldronlab/MultiAssayExperiment
-[submodule "TCGAutils"]
-	path = TCGAutils
-	url = https://github.com/waldronlab/TCGAutils
-[submodule "curatedTCGAData"]
-	path = curatedTCGAData
-	url = https://github.com/waldronlab/curatedTCGAData
-[submodule "cBioPortalData"]
-	path = cBioPortalData
-	url = https://github.com/waldronlab/cBioPortalData
-[submodule "SingleCellMultiModal"]
-	path = SingleCellMultiModal
-	url = https://github.com/waldronlab/SingleCellMultiModal
-[submodule "RTCGAToolbox"]
-	path = RTCGAToolbox
-	url = https://github.com/mksamur/RTCGAToolbox
-[submodule "RaggedExperiment"]
-	path = RaggedExperiment
-	url = https://github.com/Bioconductor/RaggedExperiment
-[submodule "BiocManager"]
-	path = BiocManager
-	url = https://github.com/Bioconductor/BiocManager
-[submodule "BiocCheck"]
-	path = BiocCheck
-	url = https://github.com/Bioconductor/BiocCheck
-[submodule "BiocHubsShiny"]
-	path = BiocHubsShiny
-	url = https://github.com/Bioconductor/BiocHubsShiny
-[submodule "BiocBaseUtils"]
-	path = BiocBaseUtils
-	url = https://github.com/Bioconductor/BiocBaseUtils
-[submodule "UniProt.ws"]
-	path = UniProt.ws
-	url = https://github.com/Bioconductor/UniProt.ws
-[submodule "BiocIO"]
-	path = BiocIO
-	url = https://github.com/Bioconductor/BiocIO
 [submodule "AnVIL"]
 	path = AnVIL
 	url = https://github.com/Bioconductor/AnVIL
 [submodule "AnVILPublish"]
 	path = AnVILPublish
 	url = https://github.com/Bioconductor/AnVILPublish
-[submodule "rjsoncons"]
-	path = rjsoncons
-	url = https://github.com/mtmorgan/rjsoncons
+[submodule "BiocBaseUtils"]
+	path = BiocBaseUtils
+	url = https://github.com/Bioconductor/BiocBaseUtils
+[submodule "BiocCheck"]
+	path = BiocCheck
+	url = https://github.com/Bioconductor/BiocCheck
+[submodule "BiocHubsShiny"]
+	path = BiocHubsShiny
+	url = https://github.com/Bioconductor/BiocHubsShiny
+[submodule "BiocIO"]
+	path = BiocIO
+	url = https://github.com/Bioconductor/BiocIO
+[submodule "BiocManager"]
+	path = BiocManager
+	url = https://github.com/Bioconductor/BiocManager
 [submodule "BiocPkgTools"]
 	path = BiocPkgTools
 	url = https://github.com/Bioconductor/BiocPkgTools
 [submodule "GenomicDataCommons"]
 	path = GenomicDataCommons
 	url = https://github.com/Bioconductor/GenomicDataCommons
+[submodule "MultiAssayExperiment"]
+	path = MultiAssayExperiment
+	url = https://github.com/waldronlab/MultiAssayExperiment
+[submodule "RTCGAToolbox"]
+	path = RTCGAToolbox
+	url = https://github.com/mksamur/RTCGAToolbox
+[submodule "RaggedExperiment"]
+	path = RaggedExperiment
+	url = https://github.com/Bioconductor/RaggedExperiment
+[submodule "SingleCellMultiModal"]
+	path = SingleCellMultiModal
+	url = https://github.com/waldronlab/SingleCellMultiModal
+[submodule "TCGAutils"]
+	path = TCGAutils
+	url = https://github.com/waldronlab/TCGAutils
+[submodule "UniProt.ws"]
+	path = UniProt.ws
+	url = https://github.com/Bioconductor/UniProt.ws
+[submodule "cBioPortalData"]
+	path = cBioPortalData
+	url = https://github.com/waldronlab/cBioPortalData
+[submodule "curatedTCGAData"]
+	path = curatedTCGAData
+	url = https://github.com/waldronlab/curatedTCGAData
 [submodule "newsfeed"]
 	path = newsfeed
 	url = https://github.com/waldronlab/newsfeed
+[submodule "rjsoncons"]
+	path = rjsoncons
+	url = https://github.com/mtmorgan/rjsoncons
