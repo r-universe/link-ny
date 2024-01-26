@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/link-ny/universe
+	url = https://github.com/link-ny/link-ny.r-universe.dev
 	branch = HEAD
 [submodule "AnVIL"]
 	path = AnVIL
