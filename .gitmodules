@@ -5,12 +5,27 @@
 [submodule "AnVIL"]
 	path = AnVIL
 	url = https://github.com/Bioconductor/AnVIL
+[submodule "AnVILAz"]
+	path = AnVILAz
+	url = https://github.com/Bioconductor/AnVILAz
+[submodule "AnVILBase"]
+	path = AnVILBase
+	url = https://github.com/Bioconductor/AnVILBase
+[submodule "AnVILGCP"]
+	path = AnVILGCP
+	url = https://github.com/Bioconductor/AnVILGCP
 [submodule "AnVILPublish"]
 	path = AnVILPublish
 	url = https://github.com/Bioconductor/AnVILPublish
+[submodule "BiocArchive"]
+	path = BiocArchive
+	url = https://github.com/Bioconductor/BiocArchive
 [submodule "BiocBaseUtils"]
 	path = BiocBaseUtils
 	url = https://github.com/Bioconductor/BiocBaseUtils
+[submodule "BiocCertificate"]
+	path = BiocCertificate
+	url = https://github.com/Bioconductor/BiocCertificate
 [submodule "BiocCheck"]
 	path = BiocCheck
 	url = https://github.com/Bioconductor/BiocCheck
@@ -23,30 +38,57 @@
 [submodule "BiocManager"]
 	path = BiocManager
 	url = https://github.com/Bioconductor/BiocManager
+[submodule "BiocPkgStats"]
+	path = BiocPkgStats
+	url = https://github.com/Bioconductor/BiocPkgStats
 [submodule "BiocPkgTools"]
 	path = BiocPkgTools
-	url = https://github.com/Bioconductor/BiocPkgTools
+	url = https://github.com/seandavi/BiocPkgTools
+[submodule "BiocResourceStats"]
+	path = BiocResourceStats
+	url = https://github.com/Bioconductor/BiocResourceStats
+[submodule "BiocWorkshopSubmit"]
+	path = BiocWorkshopSubmit
+	url = https://github.com/Bioconductor/BiocWorkshopSubmit
+[submodule "BranchRename"]
+	path = BranchRename
+	url = https://github.com/Bioconductor/BranchRename
+[submodule "GenomeNexus"]
+	path = GenomeNexus
+	url = https://github.com/LiNk-NY/GenomeNexus
 [submodule "GenomicDataCommons"]
 	path = GenomicDataCommons
 	url = https://github.com/Bioconductor/GenomicDataCommons
 [submodule "MultiAssayExperiment"]
 	path = MultiAssayExperiment
 	url = https://github.com/waldronlab/MultiAssayExperiment
+[submodule "OncoTree"]
+	path = OncoTree
+	url = https://github.com/LiNk-NY/OncoTree
 [submodule "RTCGAToolbox"]
 	path = RTCGAToolbox
 	url = https://github.com/mksamur/RTCGAToolbox
 [submodule "RaggedExperiment"]
 	path = RaggedExperiment
 	url = https://github.com/Bioconductor/RaggedExperiment
+[submodule "ReleaseLaunch"]
+	path = ReleaseLaunch
+	url = https://github.com/Bioconductor/ReleaseLaunch
 [submodule "SingleCellMultiModal"]
 	path = SingleCellMultiModal
 	url = https://github.com/waldronlab/SingleCellMultiModal
 [submodule "TCGAutils"]
 	path = TCGAutils
 	url = https://github.com/waldronlab/TCGAutils
+[submodule "TENxIO"]
+	path = TENxIO
+	url = https://github.com/waldronlab/TENxIO
 [submodule "UniProt.ws"]
 	path = UniProt.ws
 	url = https://github.com/Bioconductor/UniProt.ws
+[submodule "VisiumIO"]
+	path = VisiumIO
+	url = https://github.com/waldronlab/VisiumIO
 [submodule "cBioPortalData"]
 	path = cBioPortalData
 	url = https://github.com/waldronlab/cBioPortalData
@@ -56,6 +98,15 @@
 [submodule "newsfeed"]
 	path = newsfeed
 	url = https://github.com/waldronlab/newsfeed
+[submodule "oncoKBData"]
+	path = oncoKBData
+	url = https://github.com/waldronlab/oncoKBData
+[submodule "rapiclient"]
+	path = rapiclient
+	url = https://github.com/bergant/rapiclient
 [submodule "rjsoncons"]
 	path = rjsoncons
 	url = https://github.com/mtmorgan/rjsoncons
+[submodule "terraTCGAdata"]
+	path = terraTCGAdata
+	url = https://github.com/waldronlab/terraTCGAdata
