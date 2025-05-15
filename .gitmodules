@@ -38,6 +38,9 @@
 [submodule "BiocManager"]
 	path = BiocManager
 	url = https://github.com/Bioconductor/BiocManager
+[submodule "BiocPkgDash"]
+	path = BiocPkgDash
+	url = https://github.com/Bioconductor/BiocPkgDash
 [submodule "BiocPkgStats"]
 	path = BiocPkgStats
 	url = https://github.com/Bioconductor/BiocPkgStats
