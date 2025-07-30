@@ -4,5 +4,11 @@
     "url": "https://github.com/Bioconductor/ReleaseLaunch",
     "via": ["BranchRename"],
     "from": "BranchRename"
+  },
+  {
+    "package": "shinybiocloader",
+    "url": "https://github.com/LiNk-NY/shinybiocloader",
+    "via": ["BiocPkgDash"],
+    "from": "BiocPkgDash"
   }
 ]
