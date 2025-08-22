@@ -112,7 +112,7 @@
 	url = https://github.com/mtmorgan/rjsoncons
 [submodule "shinybiocloader"]
 	path = shinybiocloader
-	url = https://github.com/LiNk-NY/shinybiocloader
+	url = https://github.com/Bioconductor/shinybiocloader
 	registered = false
 [submodule "terraTCGAdata"]
 	path = terraTCGAdata

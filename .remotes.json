@@ -7,7 +7,7 @@
   },
   {
     "package": "shinybiocloader",
-    "url": "https://github.com/LiNk-NY/shinybiocloader",
+    "url": "https://github.com/Bioconductor/shinybiocloader",
     "via": ["BiocPkgDash"],
     "from": "BiocPkgDash"
   }
