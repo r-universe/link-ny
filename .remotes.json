@@ -1,8 +1,0 @@
-[
-  {
-    "package": "ReleaseLaunch",
-    "url": "https://github.com/Bioconductor/ReleaseLaunch",
-    "via": ["BranchRename"],
-    "from": "BranchRename"
-  }
-]
